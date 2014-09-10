@@ -14,22 +14,36 @@ Program will thrown and error in the following cases
 - There is a parenthesis mistmatch. 
 
 Example Input Expressions:
+
 $	2 + 3 
+
 $	3 \* 5 
+
 $ 4 / 2 
+
 $ 6 \* \( 3 + 9 \) 
+
 $ \( 7 - 3 \) \* 2 
+
 $	6 \* \( 5 - 2 + 4 \) 
+
 $	\( \( 1 + 2 \) \* 3 + 4 \) \* 5 
 
 The output of the program must be just the postfix expression.
 Example Output Expressions:
+
 $ 2 3 + 
+
 $ 3 5 \* 
+
 $ 4 2 / 
+
 $ 6 3 9 + \* 
+
 $ 7 3 - 2 \* 
+
 $ 6 5 2 - 4 + \* =
+
 $	1 2 + 3 \* 4 + 5 \* 
 
 If there is an error in the input, the output will be a blank line.
