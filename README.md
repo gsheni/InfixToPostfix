@@ -34,6 +34,7 @@ $	\( \( 1 + 2 \) \* 3 + 4 \) \* 5
 
 ___
 The output of the program will just be the postfix expression.
+
 Example Output Expressions:
 ```txt
 $ 2 3 + 
