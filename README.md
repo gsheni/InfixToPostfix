@@ -31,8 +31,9 @@ $	6 \* \( 5 - 2 + 4 \)
 
 $	\( \( 1 + 2 \) \* 3 + 4 \) \* 5 
 ```
-The output of the program must be just the postfix expression.
+
 ___
+The output of the program will just be the postfix expression.
 Example Output Expressions:
 ```txt
 $ 2 3 + 
